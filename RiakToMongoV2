@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T17:43:32.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dwiPJ5ZzYcdmTx-zvKtr" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T17:54:14.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yG_MdHDT4IE4VUem_Dma" version="20.0.4" type="github">
   <diagram id="lJzGIVSRGpg_WVTMSUBt" name="Page-1">
-    <mxGraphModel dx="1019" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="Rd0AVcmLm3ghqgYP_enU-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp;get, put, delete&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#000099;" parent="Rd0AVcmLm3ghqgYP_enU-13" vertex="1" connectable="0">
           <mxGeometry x="0.1524" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rd0AVcmLm3ghqgYP_enU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="Rd0AVcmLm3ghqgYP_enU-15" target="Rd0AVcmLm3ghqgYP_enU-28" edge="1">
@@ -63,11 +63,11 @@
         </mxCell>
         <mxCell id="Rd0AVcmLm3ghqgYP_enU-42" value="&amp;nbsp; put, delete&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Rd0AVcmLm3ghqgYP_enU-32" vertex="1" connectable="0">
           <mxGeometry x="-0.0792" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rd0AVcmLm3ghqgYP_enU-15" value="MongoDB Client" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="550" y="230" width="150" height="100" as="geometry" />
+          <mxGeometry x="550" y="230" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Rd0AVcmLm3ghqgYP_enU-16" value="Riak" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="410" width="60" height="80" as="geometry" />
