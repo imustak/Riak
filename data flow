@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T19:02:13.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bTPTVVhmp5NgjM1-G1-M" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T19:05:40.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ar9JTf7fep0mE90GGpQ0" version="20.0.4" type="github">
   <diagram id="-HwWewdtFIF6QFBuqFEv" name="Page-1">
     <mxGraphModel dx="1019" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="304" y="285.5" width="18.48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cqHXUP-fX-pIRQBKseaB-11" value="Riak" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="505" y="140.5" width="60" height="80" as="geometry" />
+          <mxGeometry x="505" y="140.5" width="55" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="cqHXUP-fX-pIRQBKseaB-12" value="Mongo&lt;br style=&quot;font-size: 12px;&quot;&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="504" y="365.5" width="60" height="80" as="geometry" />
+          <mxGeometry x="504" y="380" width="56" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="cqHXUP-fX-pIRQBKseaB-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,6 +77,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="270.0000000000001" as="sourcePoint" />
             <mxPoint x="370" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cqHXUP-fX-pIRQBKseaB-27" value="Riak data migrator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cqHXUP-fX-pIRQBKseaB-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="220" as="sourcePoint" />
+            <mxPoint x="534.64" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cqHXUP-fX-pIRQBKseaB-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
