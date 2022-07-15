@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T20:13:25.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5LNxQql7vUeqzzwCUGrJ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T20:19:47.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oMH_LDzENT3didELjviu" version="20.0.4" type="github">
   <diagram id="ik2XL-_Za6BhkkHLgRwq" name="Page-1">
     <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="Hney_Hu-UeC1J0G16dfT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Hney_Hu-UeC1J0G16dfT-6" target="Hney_Hu-UeC1J0G16dfT-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hney_Hu-UeC1J0G16dfT-6" value="LB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-6" value="F5 LB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="294" y="230" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hney_Hu-UeC1J0G16dfT-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Kafka" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -77,6 +77,12 @@
         </mxCell>
         <mxCell id="Hney_Hu-UeC1J0G16dfT-32" value="Riak DB cluster" style="shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.storage_cluster;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="122.20000000000005" y="520" width="55.6" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="Hney_Hu-UeC1J0G16dfT-35" target="Hney_Hu-UeC1J0G16dfT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-35" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="332" y="80" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
