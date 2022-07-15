@@ -1,29 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T20:05:52.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Vc4AW6Bzz1aJbNRd_JJv" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T20:13:25.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5LNxQql7vUeqzzwCUGrJ" version="20.0.4" type="github">
   <diagram id="ik2XL-_Za6BhkkHLgRwq" name="Page-1">
     <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-30" value="VM 2" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=none;dashPattern=1 4;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="469" width="150" height="141" as="geometry" />
+        </mxCell>
         <mxCell id="Hney_Hu-UeC1J0G16dfT-1" value="KAAS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=bottom;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-110" y="170" width="880" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="Hney_Hu-UeC1J0G16dfT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="Hney_Hu-UeC1J0G16dfT-2" target="Hney_Hu-UeC1J0G16dfT-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hney_Hu-UeC1J0G16dfT-2" value="Elium" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hney_Hu-UeC1J0G16dfT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="Hney_Hu-UeC1J0G16dfT-3" target="Hney_Hu-UeC1J0G16dfT-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Hney_Hu-UeC1J0G16dfT-3" value="MongoDB client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hney_Hu-UeC1J0G16dfT-4" value="Riak" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="120" y="490" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Hney_Hu-UeC1J0G16dfT-5" value="Mongo DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="500" y="490" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Hney_Hu-UeC1J0G16dfT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="Hney_Hu-UeC1J0G16dfT-6" target="Hney_Hu-UeC1J0G16dfT-2">
           <mxGeometry relative="1" as="geometry" />
@@ -51,6 +42,41 @@
             <mxPoint x="313" y="380" as="sourcePoint" />
             <mxPoint x="363" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hney_Hu-UeC1J0G16dfT-32" target="Hney_Hu-UeC1J0G16dfT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="490" as="sourcePoint" />
+            <mxPoint x="420" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hney_Hu-UeC1J0G16dfT-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529.5" y="490" as="sourcePoint" />
+            <mxPoint x="529.5" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="Hney_Hu-UeC1J0G16dfT-23" target="Hney_Hu-UeC1J0G16dfT-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-28" value="push logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Hney_Hu-UeC1J0G16dfT-27">
+          <mxGeometry x="0.4839" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-24" value="LAAS" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.book_journal;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="41" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-29" value="MongoDB cluster" style="shadow=0;dashed=0;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.storage_cluster;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="502.2" y="520" width="55.6" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-31" value="VM 1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=none;dashPattern=1 4;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="469" width="150" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="Hney_Hu-UeC1J0G16dfT-32" value="Riak DB cluster" style="shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#d5e8d4;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.storage_cluster;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="122.20000000000005" y="520" width="55.6" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
